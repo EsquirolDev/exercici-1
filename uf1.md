@@ -53,3 +53,15 @@ Sí, perquè la tecnologia ha canviat la manera de treballar i de relacionar-se 
 només de procés?
 
 Perquè ofereix serveis digitals nous als clients, com consultar projectes, descarregar factures i obrir tiquets.
+
+### EC1.5 Per què importa ara (m)
+
+El tema explica tres forces que han convergit i han fet de la digitalització un factor
+estratègic. Resumeix-les en una taula i, per a cadascuna, posa un exemple concret del
+sector TIC que no estigui al text.
+
+|Força | Resum (1 frase) | Exemple del sector TIC|
+|-|-|-|
+|1. Tecnologia|L'avenç tecnològic facilita nous serveis digitals. | Ús de la IA per detectar errors en el codi.|
+|2. Clients| Els clients demanen serveis més ràpids i personalitzats.|Una app per consultar incidències informàtiques. |
+|3. Competència|Les empreses es digitalitzen per ser més competitives. | Una empresa de software automatitza les proves per lliurar abans.|
