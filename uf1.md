@@ -65,3 +65,17 @@ sector TIC que no estigui al text.
 |1. Tecnologia|L'avenç tecnològic facilita nous serveis digitals. | Ús de la IA per detectar errors en el codi.|
 |2. Clients| Els clients demanen serveis més ràpids i personalitzats.|Una app per consultar incidències informàtiques. |
 |3. Competència|Les empreses es digitalitzen per ser més competitives. | Una empresa de software automatitza les proves per lliurar abans.|
+
+### EC1.6 Una empresa, dos moments (r)
+Imagina una empresa de desenvolupament web de 25 persones:
+Moment A (fa 10 anys): facturació manual, projectes gestionats amb post-its,
+captació de clients per referències, sense presència en xarxes.
+Moment B (avui): ERP al núvol, eines de gestió àgil (Scrum/Kanban), marca
+personal dels/fels caps de projecte a LinkedIn, blog tècnic, comercial automatitzat
+amb un CRM, analítica web al lloc corporatiu.
+Quin dels dos moments representa una transformació digital i quin només una
+digitalització? Argumenta-ho en cinc línies com a màxim.
+
+El moment A representa una empresa poc digitalitzada, amb processos manuals i tradicionals.
+El moment B representa una transformació digital, perquè no només incorpora eines digitals, sinó que canvia la manera de treballar, captar clients i gestionar projectes.
+Això millora l'eficiència, la competitivitat i la relació amb els clients.
